@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anissaHM
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Machine Learning because I want to know how far my machine can learn and want to develop my personal skill on it.
 - 📫 You can contact me on LinkedIn
 
 <!---
