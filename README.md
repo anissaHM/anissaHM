@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anissaHM
-- 👀 I’m interested in Machine Learning and analyzing data because I want to know how far my machine can learn and want to develop my personal skill on it.
+- 👀 I have experience working as Software Analyst. My job is to build and maintain CRM in Salesforce. Apex Code is my weapon, Flow helps me, Visualforce colors my world, Validation Rule sets limits, and manages everything in Objects. That's me.
 - 📫 You can contact me on LinkedIn
 
 <!---
